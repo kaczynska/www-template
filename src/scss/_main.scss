@@ -94,7 +94,9 @@ main {
 			margin: 20px;
 		}
 		iframe {
-			width: 90%;
+			width: 560px;
+			height: 315px;
+			frameborder: 0;
 		}
 		@media screen and (min-width: $break-midium) {
 			iframe {
