@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules
+dist
+
+# Materials
+_links
+_materials
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
