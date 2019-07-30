@@ -11,8 +11,10 @@ Website template.
 * Gulp
 
 ## How to use
+* install all dependencies (make sure nodejs with npm is installed on your machine): npm install
 * run: gulp (localhost:3000)
 * build: gulp build
+* clean: gulp clean
 
 [Live Preview](http://kaczynska.ayz.pl/)
 
