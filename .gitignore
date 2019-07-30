@@ -1,9 +1,10 @@
 # Dependency directories
 node_modules
 dist
+package-lock.json
 
 # Materials
-_links
+_links.txt
 _materials
 
 ### macOS ###
